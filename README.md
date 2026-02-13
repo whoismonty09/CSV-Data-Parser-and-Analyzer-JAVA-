@@ -33,3 +33,8 @@ This project is a Java console-based CSV Data Parser that reads and analyzes CSV
 ## ▶ How to Run
 1. Place `data.csv` in the project folder  
 2. Compile:
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
